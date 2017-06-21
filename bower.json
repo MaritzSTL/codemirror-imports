@@ -1,0 +1,21 @@
+{
+  "name": "codemirror-imports",
+  "description": "HTML Imports for CodeMirror",
+  "main": "codemirror.html",
+  "authors": [
+    "Maritz Motivation Solutions"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/MaritzSTL/codemirror-imports",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "codemirror": "^5.26.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "codemirror-imports",
+  "version": "0.1.0",
+  "description": "HTML Imports for CodeMirror",
+  "main": "codemirror.html",
+  "repository": "git@github.com:MaritzSTL/codemirror-imports.git",
+  "author": "Maritz Motivation Solutions",
+  "dependencies": {
+    "codemirror": "^5.26.0"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "flat": true
+}
